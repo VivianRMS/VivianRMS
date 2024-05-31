@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web & iOS develpment**
 
-- 👨‍💻 All of my projects are available at [my website](http://VivianRms.github.io)
+- 👨‍💻 All of my projects are available at [my website]([http://VivianRms.github.io](https://kunlinr-portofolio-website.vercel.app/))
 
 - 📫 How to reach me **k.ruan.career@gmail.com**
 
