@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunlin</h1>
-<h3 align="center">A passionate 3rd year ECE & DS student.</h3>
+<h3 align="center">A passionate 4th year ECE & DS student.</h3>
 
-- 🌱 I’m currently learning **Web & iOS develpment**
+- 🌱 I’m currently learning **backend develpment** and actively looking for 2025 software engineer NG positions.
 
 - 👨‍💻 All of my projects are available at [my website](https://kunlinr-portofolio-website.vercel.app/)
 
