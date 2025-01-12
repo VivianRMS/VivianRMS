@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **backend develpment** and actively looking for 2025 software engineer NG positions.
 
-- 👨‍💻 All of my projects are available at [my website](https://kunlinr-portofolio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at [my website](https://kunlinr.vercel.app/)
 
 - 📫 How to reach me **k.ruan.career@gmail.com**
 
