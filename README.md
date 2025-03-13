@@ -3,11 +3,11 @@
 
 - 🌱 Currently pursuing bachelor's degree in DS @ University of Michigan
 
-- 🙋 Incoming NG SWE @ Stripe, ex-SWE intern @ Graph Academy, ex-SWE intern @ World Salon
+- 🙋 Incoming SWE @ Stripe, ex-SWE intern @ Graph Academy & World Salon
 
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 
-- 👨‍💻 All of my projects are available at [my website](https://kunlinr.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kunlinr.vercel.app/](https://kunlinr.vercel.app/)
 
 - 📫 How to reach me **k.ruan.career@gmail.com**
 
