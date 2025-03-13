@@ -3,7 +3,7 @@
 
 - 🌱 Currently pursuing bachelor's degree in DS @ University of Michigan
 
-- 🙋 ex-SWE intern @ Graph Academy, ex-SWE intern @ World Salon, incoming NG SWE @ Stripe
+- 🙋 Incoming NG SWE @ Stripe, ex-SWE intern @ Graph Academy, ex-SWE intern @ World Salon
 
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 
