@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunlin</h1>
 <h3 align="center">A passionate 4th year ECE & DS student.</h3>
 
-- 🌱 I’m currently learning **backend develpment** and actively looking for 2025 software engineer NG positions.
+- 🌱 Currently pursuing bachelor's degree in DS @ University of Michigan
+
+- 🙋 ex-SWE intern @ Graph Academy, ex-SWE intern @ World Salon, incoming NG SWE @ Stripe
+
+- 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 
 - 👨‍💻 All of my projects are available at [my website](https://kunlinr.vercel.app/)
 
