@@ -7,8 +7,6 @@
 
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 
-- 👨‍💻 All of my projects are available at [https://kunlinr.vercel.app/](https://kunlinr.vercel.app/)
-
 - 📫 How to reach me **k.ruan.career@gmail.com**
 
 - ⚡ Fun fact **Happy foodie!**
