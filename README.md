@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kunlin</h1>
-<h3 align="center">A passionate 4th year ECE & DS student.</h3>
 
 - 🌱 DS 25' @ University of Michigan
 
