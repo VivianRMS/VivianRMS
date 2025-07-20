@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunlin</h1>
 
-- 🌱 DS 25' @ University of Michigan
-
-- 🙋 Incoming SWE @ Stripe
-
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 
 - 📫 How to reach me **k.ruan.career@gmail.com**
