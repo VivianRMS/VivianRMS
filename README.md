@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunlin</h1>
-
-- 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
+<h1 align="center">:robot:</h1>
 
 - 📫 How to reach me **k.ruan.career@gmail.com**
 
