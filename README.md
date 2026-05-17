@@ -1,6 +1,6 @@
 <h1 align="center">:robot:</h1>
 
-- 📫 How to reach me **k.ruan.career@gmail.com**
+- 📫 How to reach me **kunlinovar@gmail.com**
 
 - ⚡ Fun fact **Happy foodie!**
 
