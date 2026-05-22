@@ -12,6 +12,6 @@
          ╚═════════║   cooking · calligraphy · rocks   ║
                    ╚═══════════════════════════════════╝
 
-📫 kunlinovar@gmail.com                                                                           
+📫 kunlinovar@gmail.com
 ```
 </div>
